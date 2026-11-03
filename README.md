@@ -1,5 +1,7 @@
 # Small-Satellite Tracking Study
 
+![Small-satellite tracking study: radio telescope and star field](docs/images/cover-small-satellite-tracking.png)
+
 **Documentation and exploratory study** of astronomical star-list matching and geometric coordinate transformations, originating in a research internship related to small-satellite tracking.
 
 ## About this repository
